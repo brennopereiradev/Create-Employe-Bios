@@ -2,7 +2,7 @@
 
 ### Steps
 
-1. Go to the plugins menu and upload, install and activate the plugin Employee Bios (zonda_employee_bio-main.zip)
+1. Go to the plugins menu and upload, install and activate the plugin Employee Bios
 
 2. Install the free version of the plugin ACF (Advanced Custom Fields) - ACF-Plugin
 
